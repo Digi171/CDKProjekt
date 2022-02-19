@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("Cmorej\n");
+    printf("Kandrac\n");
     return 0;
 }
