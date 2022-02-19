@@ -6,5 +6,9 @@ int main()
         printf("%d",i);
     }
     printf("\nIdk");
+
+    for (int i = 0; i < 79; ++i) {
+        printf("TEST");
+    }
     return 0;
 }

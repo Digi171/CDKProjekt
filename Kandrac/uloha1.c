@@ -1,5 +1,4 @@
 #include <stdio.h>
-//TODO toto tu
 int main()
 {
     for (int i = 0; i < 10; ++i) {
@@ -7,4 +6,8 @@ int main()
     }
     printf("\nIdk");
     return 0;
+}
+void idk()
+{
+    int x = 1;
 }
