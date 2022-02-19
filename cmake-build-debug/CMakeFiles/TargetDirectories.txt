@@ -1,0 +1,3 @@
+C:/Users/Kamil/CDKProjekt/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Kamil/CDKProjekt/cmake-build-debug/CMakeFiles/CDKProjekt.dir
+C:/Users/Kamil/CDKProjekt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
